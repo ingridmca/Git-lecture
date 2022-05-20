@@ -14,6 +14,8 @@
 //git branch -M main
 //git push -u origin main
 
+//after add you commit and then you push to git hub
+
 //Get Flow
 
 //
